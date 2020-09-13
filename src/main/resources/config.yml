@@ -1,0 +1,7 @@
+launchSounds: ENTITY_BLAZE_SHOOT,2,1;ENTITY_BAT_TAKEOFF,2,0.8;
+flightSounds: BLOCK_NOTE_BLOCK_BASS,2,-1
+arrivalSounds: ENTITY_PLAYER_LEVELUP,1,1
+
+launchParticles: SMOKE_NORMAL,1,0
+flightParticles: FLAME,1,0
+arrivalParticles: VILLAGER_HAPPY,1,0

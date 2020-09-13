@@ -1,0 +1,10 @@
+name: FairWarp
+version: ${project.version}
+main: de.mcmdev.fairwarp.FairWarp
+api-version: 1.16
+
+commands:
+  warp:
+    description: Warps to a location
+  setwarp:
+    description: Sets a warp
